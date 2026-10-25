@@ -24,7 +24,7 @@ export default function PrivacyPolicy() {
           </h1>
 
           <p className="mt-4 max-w-2xl text-lg text-gray-400">
-            Your privacy is important to us. This policy explains how
+            Your privacy is important. This policy explains how
             Bhavisa Home Care collects, uses, stores and protects your
             personal information.
           </p>
